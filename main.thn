@@ -1,0 +1,11 @@
+x = 5;
+y = 5;
+yaz("1. satır");
+yaz ("2. satır");
+yaz("x in değeri:", x);
+yaz(1+1);
+yaz("toplam sayı:", x+y);
+yaz("toplam sayı:", 10+1);
+yaz("çıkarma işlemeri", 10-5);
+yaz("*"*10);
+yaz("HATALI YAZIM")
