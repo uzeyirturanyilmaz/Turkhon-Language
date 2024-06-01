@@ -71,4 +71,4 @@ def kendi_yazilim_dilim(dosya_adi):
             satir_numarasi += 1
 
 # Örnek kullanım
-kendi_yazilim_dilim('main.uty')
+kendi_yazilim_dilim('main.thn')
