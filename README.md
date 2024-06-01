@@ -9,3 +9,4 @@ Turkhon, Python sözdizimini kullanarak basit yazılım komutlarını işleyip �
 
 ## Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen bir pull request oluşturun veya bir issue açın.
+ 
